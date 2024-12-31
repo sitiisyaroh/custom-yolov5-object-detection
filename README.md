@@ -17,7 +17,7 @@ This project implements object detection using YOLOv5 with a custom dataset. The
    git clone https://github.com/sitiisyaroh/custom-yolov5-object-detection.git
    cd yolov5-object-detection
    
-2. Download The Dataset from [Kitty Dataset]([https://s3.eu-central-1.amazonaws.com/avg-kitti/data_object_image_2.zip])
+2. Download The Dataset from [Kitty Dataset](https://s3.eu-central-1.amazonaws.com/avg-kitti/data_object_image_2.zip)
 3. Set up and run split dataset.ipynb
 4. Once the dataset is already clean and ready for training, setup and run training_yolov5.ipynb
 5. Download the model from /weights/best.py
@@ -26,4 +26,9 @@ This project implements object detection using YOLOv5 with a custom dataset. The
 
 ### Documentation
 Some result from custom model:
+
+
+https://github.com/user-attachments/assets/7a02c3fd-6fad-4219-9bbf-d174641872db
+
+
 ![000039](https://github.com/user-attachments/assets/fb355971-c649-498b-a06e-089039166b2a)
